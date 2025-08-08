@@ -1,2 +1,1 @@
-# CODSOFT
-"CodSoft InternshipWeb Development level 1 Tasks".
+This is my first web code project
